@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "aethborg idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "aethborg left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "aethborg down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				250
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "aethborg up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "aethborg right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/aethborg",
+	"position": [
+		10,
+		200
+	],
+	"healthicon": "aethborg",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		68,
+		31
+	],
+	"camera_position": [
+		-240,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 1.8,
+	"_editor_isPlayer": false
+}

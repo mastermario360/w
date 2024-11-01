@@ -1,0 +1,8 @@
+{
+  "idle_anim": "cyborg idle",
+  "image": "cyborgidle",
+  "position": [130, 50],
+  "flipX": false,
+  "scale": 0.95,
+  "confirm_anim": "cyborg idle"
+}

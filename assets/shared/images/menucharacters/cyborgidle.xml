@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cyborgidle.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cyborg idle0000" x="0" y="0" width="428" height="424"/>
+	<SubTexture name="cyborg idle0001" x="0" y="0" width="428" height="424"/>
+	<SubTexture name="cyborg idle0002" x="428" y="0" width="428" height="424"/>
+	<SubTexture name="cyborg idle0003" x="428" y="0" width="428" height="424"/>
+	<SubTexture name="cyborg idle0004" x="0" y="424" width="428" height="424"/>
+	<SubTexture name="cyborg idle0005" x="0" y="424" width="428" height="424"/>
+	<SubTexture name="cyborg idle0006" x="428" y="424" width="428" height="424"/>
+	<SubTexture name="cyborg idle0007" x="428" y="424" width="428" height="424"/>
+	<SubTexture name="cyborg idle0008" x="428" y="424" width="428" height="424"/>
+	<SubTexture name="cyborg idle0009" x="428" y="424" width="428" height="424"/>
+	<SubTexture name="cyborg idle0010" x="428" y="424" width="428" height="424"/>
+	<SubTexture name="cyborg idle0011" x="428" y="424" width="428" height="424"/>
+	<SubTexture name="cyborg idle0012" x="428" y="424" width="428" height="424"/>
+	<SubTexture name="cyborg idle0013" x="428" y="424" width="428" height="424"/>
+</TextureAtlas>
