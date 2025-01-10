@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey! How ya doin'?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "PHShaggyright",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "doing great, you?"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "spurkshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We're all doing fine, we're just wanting help since GF seems like she's up to something."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "ronmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea, she acted all weird about the left side and stuff or whatever."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "PHShaggyright",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Is that so? If so I'm totally in to help you guys!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "PHMattright",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea, would like to help too."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So what are we waiting for? Lets begin!"
+		}
+	]
+}

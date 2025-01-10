@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-40,
+				-79
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "shaggy_left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				123,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "shaggy_right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				103,
+				-129
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "shaggy_down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-27,
+				66
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "shaggy_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				40
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 30,
+			"name": "shaggy_idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-18,
+				40
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle2",
+			"name": "shaggy_idle2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SpurkShag",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "SpurkShaggyMatt",
+	"flip_x": false,
+	"healthbar_colors": [
+		144,
+		26,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

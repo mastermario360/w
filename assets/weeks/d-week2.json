@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"The Propane Warrior",
+			"Hanknoblade",
+			[
+				53,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "mania",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Context: Spurk's Mod & Ron's Mod",
+	"weekName": "propanewarrior",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

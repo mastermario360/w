@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "spurkshaggyr",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Dude you won't believe who I found."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who?"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "spurkshaggyr",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That player guy."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Incredible, man!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bfplayer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah hi, I'm lost here kinda, and I don't know where Girlfriend is."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bfplayer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We were on our way to mess with green shaggy again, but she went some way and I can't even find her."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I mean we could probably help you with that!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bfplayer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but, I need Girlfriend if I want to even stay on top, I can't rap battle now!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "spurkshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..why do you need her? All the times you've fought somebody you've always used your other voice which is just regular BF's voice. Plus, the song doesn't even come from the speaker."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "spurkshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why don't you just use your own voice for once? Come on, its really fun to!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bfplayer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uh- okay, if you really want me to. I don't know how well this would go though.."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "come on! You got this, player!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bfplayer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you, actually know my name?"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bfplayer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright then shaggy! I'll show you what I got!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "spurkshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh by the way, no cutting the song short."
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"mediocre",
+			"vsilvashaggy",
+			[
+				51,
+				114,
+				74
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "mania",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "shaggy vs saggy",
+	"weekName": "vsilvashaggy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
