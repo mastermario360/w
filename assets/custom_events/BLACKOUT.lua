@@ -1,5 +1,5 @@
---Created by RamenDominoes
---Credit appreciated, but not necessary thanks <3
+local StartStop = 0
+local Speed = 0
 
 function onCreate()
 	
@@ -11,17 +11,13 @@ function onCreate()
 	scaleObject('BlackOut', 50, 30)
 end
 
-StartStop = 0
-Speed = 0
-
-
 function onEvent(name,value1,value2)
 
 	if name == 'BLACKOUT' then
 	
 	StartStop = tonumber(value1)
 	Speed = tonumber(value2)
-end
+	end
 end
 	
 function onUpdate()

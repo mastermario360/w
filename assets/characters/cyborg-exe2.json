@@ -1,80 +1,55 @@
 {
-	"animations": [
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "idle",
-			"fps": 12,
-			"name": "Aethborg2 Idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				50,
-				0
-			],
-			"anim": "singLEFT",
-			"fps": 12,
-			"name": "Aethborg2 Left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				-20
-			],
-			"anim": "singDOWN",
-			"fps": 12,
-			"name": "Aethborg2 Down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				20
-			],
-			"anim": "singUP",
-			"fps": 12,
-			"name": "Aethborg2 Up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-100,
-				20
-			],
-			"anim": "singRIGHT",
-			"fps": 12,
-			"name": "Aethborg2 Right",
-			"indices": []
-		}
-	],
-	"vocals_file": "",
-	"no_antialiasing": false,
-	"image": "characters/Aethborg2",
-	"position": [
-		-310,
-		-230
-	],
-	"healthicon": "aethborg2",
-	"flip_x": false,
-	"healthbar_colors": [
-		9,
-		16,
-		50
-	],
-	"camera_position": [
-		50,
-		-100
-	],
-	"sing_duration": 4,
-	"scale": 0.999999999999999,
-	"_editor_isPlayer": false
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [0, 0],
+      "anim": "idle",
+      "fps": 12,
+      "name": "Aethborg2 Idle",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [50, 0],
+      "anim": "singLEFT",
+      "fps": 12,
+      "name": "Aethborg2 Left",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [-10, -20],
+      "anim": "singDOWN",
+      "fps": 12,
+      "name": "Aethborg2 Down",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [-10, 20],
+      "anim": "singUP",
+      "fps": 12,
+      "name": "Aethborg2 Up",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [-100, 20],
+      "anim": "singRIGHT",
+      "fps": 12,
+      "name": "Aethborg2 Right",
+      "indices": []
+    }
+  ],
+  "vocals_file": "",
+  "no_antialiasing": false,
+  "image": "characters/Aethborg2",
+  "position": [-310, -230],
+  "healthicon": "aethborg2",
+  "flip_x": false,
+  "healthbar_colors": [9, 16, 50],
+  "camera_position": [50, -100],
+  "sing_duration": 4,
+  "scale": 0.999999999999999,
+  "_editor_isPlayer": false
 }

@@ -1,50 +1,18 @@
 {
-	"storyName": "vs cyborg full week",
-	"difficulties": "Hard",
-	"hideFreeplay": false,
-	"weekBackground": "",
-	"weekBefore": "tutorial",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"startUnlocked": true,
-	"hideStoryMode": false,
-	"songs": [
-		[
-			"Boo-Yah",
-			"cyborg",
-			[
-				155,
-				20,
-				40
-			]
-		],
-		[
-			"Fuck-You",
-			"cyborgmad",
-			[
-				135,
-				20,
-				40
-			]
-		],
-		[
-			"Minecraft",
-			"aethborg",
-			[
-				120,
-				40,
-				31
-			]
-		]
-	],
-	"weekCharacters": [
-		"cyborg",
-		"bf",
-		"gf"
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "vscyborg"
+  "storyName": "vs cyborg full week",
+  "difficulties": "Hard",
+  "hideFreeplay": false,
+  "weekBackground": "",
+  "weekBefore": "tutorial",
+  "freeplayColor": [146, 113, 253],
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "songs": [
+    ["Boo-Yah", "cyborg", [155, 20, 40]],
+    ["Fuck-You", "cyborgmad", [135, 20, 40]],
+    ["Minecraft", "aethborg", [120, 40, 31]]
+  ],
+  "weekCharacters": ["cyborg", "bf", "gf"],
+  "hiddenUntilUnlocked": false,
+  "weekName": "vscyborg"
 }

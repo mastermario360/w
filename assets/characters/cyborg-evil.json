@@ -1,80 +1,55 @@
 {
-	"animations": [
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "cyborg idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				160,
-				10
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "cyborg left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				140,
-				-130
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "cyborg down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-100,
-				130
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "cyborg up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-60,
-				-40
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "cyborg right",
-			"indices": []
-		}
-	],
-	"vocals_file": "",
-	"no_antialiasing": false,
-	"image": "characters/cyborgevil",
-	"position": [
-		-10,
-		200
-	],
-	"healthicon": "cyborgmad",
-	"flip_x": false,
-	"healthbar_colors": [
-		255,
-		0,
-		0
-	],
-	"camera_position": [
-		-250,
-		-150
-	],
-	"sing_duration": 4,
-	"scale": 1.6,
-	"_editor_isPlayer": false
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [0, 0],
+      "anim": "idle",
+      "fps": 24,
+      "name": "cyborg idle",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [160, 10],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "cyborg left",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [140, -130],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "cyborg down",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [-100, 130],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "cyborg up",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [-60, -40],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "cyborg right",
+      "indices": []
+    }
+  ],
+  "vocals_file": "",
+  "no_antialiasing": false,
+  "image": "characters/cyborgevil",
+  "position": [-10, 200],
+  "healthicon": "cyborgmad",
+  "flip_x": false,
+  "healthbar_colors": [255, 0, 0],
+  "camera_position": [-250, -150],
+  "sing_duration": 4,
+  "scale": 1.6,
+  "_editor_isPlayer": false
 }
