@@ -1,9 +1,9 @@
 stage
-halloween
+spooky
 philly
 limo
 mall
 mallEvil
 school
 schoolEvil
-weegee
+tank
