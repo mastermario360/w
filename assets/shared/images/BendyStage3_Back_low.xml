@@ -1,0 +1,14 @@
+<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="Cuphead Hadoken.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html1400 -->
+	<SubTexture name="Pain 1000" x="0" y="0" width="777.5" height="360"/>
+	<SubTexture name="Pain 1001" x="777.5" y="0" width="777.5" height="360"/>
+	<SubTexture name="Pain 1002" x="1555" y="0" width="777.5" height="360"/>
+	<SubTexture name="Pain 1003" x="2332.5" y="0" width="777.5" height="360"/>
+	<SubTexture name="Pain 1004" x="3110" y="0" width="777.5" height="360"/>
+	<SubTexture name="Pain 1005" x="0" y="360" width="777.5" height="360"/>
+	<SubTexture name="Pain 1006" x="777.5" y="360" width="777.5" height="360"/>
+	<SubTexture name="Pain 1007" x="1555" y="360" width="777.5" height="360"/>
+	<SubTexture name="Pain 1008" x="2332.5" y="360" width="777.5" height="360"/>
+</TextureAtlas>

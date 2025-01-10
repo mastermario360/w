@@ -1,0 +1,9 @@
+<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="NewRAINLayer01.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RainFirstlayer instance 10000" x="2.5" y="2.5" width="480.25" height="270.25"/>
+	<SubTexture name="RainFirstlayer instance 10001" x="485.25" y="2.5" width="480.25" height="270.25"/>
+	<SubTexture name="RainFirstlayer instance 10002" x="2.5" y="275.25" width="480.25" height="270.25"/>
+	<SubTexture name="RainFirstlayer instance 10003" x="485.25" y="275.25" width="480.25" height="270.25"/>
+</TextureAtlas>

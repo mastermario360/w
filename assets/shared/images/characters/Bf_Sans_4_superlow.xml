@@ -1,0 +1,274 @@
+<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="lsebf.png">
+    <!-- Created with Adobe Animate version 20.0.3.25487 -->
+    <!-- http://www.adobe.com/products/animate.html -->
+    <SubTexture name="BF NOTE DOWN MISS guitar0000" x="1698" y="544.25" width="156.5" height="132.25" pivotX="21.6625" pivotY="4.475" frameX="0" frameY="-8.5" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0001" x="1854.5" y="544.25" width="131.25" height="104.25" frameX="-9.5" frameY="0" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0002" x="1854.5" y="544.25" width="131.25" height="104.25" frameX="-9.5" frameY="0" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0003" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0004" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0005" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0006" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0007" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0008" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0009" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0010" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0011" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0012" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0013" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0014" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0015" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0016" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0017" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0018" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0019" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0020" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0021" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0022" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0023" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0024" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0025" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0026" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0027" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN MISS guitar0028" x="0" y="676.5" width="131.25" height="103.75" frameX="-9.5" frameY="-0.75" frameWidth="156.5" frameHeight="140.75" />
+    <SubTexture name="BF NOTE DOWN guitar0000" x="131.25" y="676.5" width="156.5" height="132.25" pivotX="21.6625" pivotY="-3.05" frameX="0" frameY="-1.25" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0001" x="131.25" y="676.5" width="156.5" height="132.25" frameX="0" frameY="-1.25" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0002" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0003" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0004" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0005" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0006" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0007" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0008" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0009" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0010" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0011" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0012" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0013" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0014" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0015" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0016" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0017" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0018" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0019" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0020" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0021" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0022" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0023" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0024" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0025" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0026" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0027" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0028" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE DOWN guitar0029" x="287.75" y="676.5" width="151.25" height="123" frameX="-5.25" frameY="0" frameWidth="156.5" frameHeight="133.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0000" x="439" y="676.5" width="140" height="128.5" pivotX="-61.7375" pivotY="55.5" frameX="0" frameY="-7" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0001" x="579" y="676.5" width="109.25" height="112.25" frameX="-11.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0002" x="579" y="676.5" width="109.25" height="112.25" frameX="-11.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0003" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0004" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0005" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0006" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0007" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0008" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0009" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0010" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0011" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0012" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0013" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0014" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0015" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0016" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0017" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0018" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0019" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0020" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0021" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0022" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0023" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0024" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0025" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0026" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0027" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0028" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0029" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0030" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0031" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0032" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT MISS guitar0033" x="688.25" y="676.5" width="111.5" height="112.25" frameX="-9.5" frameY="0" frameWidth="140" frameHeight="135.5" />
+    <SubTexture name="BF NOTE LEFT guitar0000" x="799.75" y="676.5" width="138" height="122.25" pivotX="-61.7375" pivotY="48.5" frameX="-2" frameY="0" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE LEFT guitar0001" x="799.75" y="676.5" width="138" height="122.25" frameX="-2" frameY="0" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE LEFT guitar0002" x="937.75" y="676.5" width="140.5" height="128" frameX="0" frameY="-0.5" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE LEFT guitar0003" x="937.75" y="676.5" width="140.5" height="128" frameX="0" frameY="-0.5" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE LEFT guitar0004" x="937.75" y="676.5" width="140.5" height="128" frameX="0" frameY="-0.5" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE LEFT guitar0005" x="937.75" y="676.5" width="140.5" height="128" frameX="0" frameY="-0.5" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE LEFT guitar0006" x="937.75" y="676.5" width="140.5" height="128" frameX="0" frameY="-0.5" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE LEFT guitar0007" x="937.75" y="676.5" width="140.5" height="128" frameX="0" frameY="-0.5" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE LEFT guitar0008" x="937.75" y="676.5" width="140.5" height="128" frameX="0" frameY="-0.5" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE LEFT guitar0009" x="937.75" y="676.5" width="140.5" height="128" frameX="0" frameY="-0.5" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE LEFT guitar0010" x="937.75" y="676.5" width="140.5" height="128" frameX="0" frameY="-0.5" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE LEFT guitar0011" x="937.75" y="676.5" width="140.5" height="128" frameX="0" frameY="-0.5" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE LEFT guitar0012" x="937.75" y="676.5" width="140.5" height="128" frameX="0" frameY="-0.5" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE LEFT guitar0013" x="937.75" y="676.5" width="140.5" height="128" frameX="0" frameY="-0.5" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE LEFT guitar0014" x="937.75" y="676.5" width="140.5" height="128" frameX="0" frameY="-0.5" frameWidth="140.5" frameHeight="128.5" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0000" x="1318.25" y="676.5" width="145" height="133.25" pivotX="-63.1625" pivotY="48.925" frameX="0" frameY="-7.75" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0001" x="1078.25" y="676.5" width="118.75" height="113" frameX="-11" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0002" x="1078.25" y="676.5" width="118.75" height="113" frameX="-11" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0003" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0004" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0005" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0006" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0007" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0008" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0009" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0010" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0011" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0012" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0013" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0014" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0015" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0016" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0017" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0018" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0019" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0020" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0021" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0022" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0023" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0024" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0025" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0026" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0027" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0028" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0029" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0030" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0031" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0032" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0033" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0034" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0035" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0036" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0037" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0038" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0039" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0040" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0041" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0042" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0043" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0044" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT MISS guitar0045" x="1197" y="676.5" width="121.25" height="113" frameX="-10.75" frameY="0" frameWidth="145" frameHeight="141" />
+    <SubTexture name="BF NOTE RIGHT guitar0000" x="1318.25" y="676.5" width="145" height="133.25" pivotX="-63.1625" pivotY="48.925" frameX="0" frameY="-0.5" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0001" x="1318.25" y="676.5" width="145" height="133.25" frameX="0" frameY="-0.5" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0002" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0003" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0004" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0005" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0006" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0007" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0008" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0009" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0010" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0011" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0012" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0013" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0014" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0015" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0016" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0017" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0018" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0019" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0020" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0021" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0022" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0023" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0024" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0025" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0026" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0027" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0028" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0029" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0030" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0031" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0032" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0033" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0034" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0035" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0036" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0037" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0038" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0039" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0040" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0041" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0042" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0043" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0044" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0045" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0046" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0047" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0048" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0049" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0050" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0051" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0052" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0053" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0054" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0055" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0056" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0057" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0058" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0059" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0060" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE RIGHT guitar0061" x="1463.25" y="676.5" width="140.75" height="123.5" frameX="-0.25" frameY="0" frameWidth="145" frameHeight="133.75" />
+    <SubTexture name="BF NOTE UP MISS guitar0000" x="1604" y="676.5" width="168.5" height="151.5" pivotX="27.6375" pivotY="-1" frameX="0" frameY="-7.75" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0001" x="1772.5" y="676.5" width="113.75" height="120.75" frameX="-25.75" frameY="-0.75" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0002" x="1772.5" y="676.5" width="113.75" height="120.75" frameX="-25.75" frameY="-0.75" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0003" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0004" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0005" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0006" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0007" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0008" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0009" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0010" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0011" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0012" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0013" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0014" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0015" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0016" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0017" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0018" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0019" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0020" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0021" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0022" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP MISS guitar0023" x="1886.25" y="676.5" width="113.75" height="121.5" frameX="-25.75" frameY="0" frameWidth="168.5" frameHeight="159.25" />
+    <SubTexture name="BF NOTE UP guitar0000" x="0" y="828" width="168.5" height="151.5" pivotX="27.6375" pivotY="-8.875" />
+    <SubTexture name="BF NOTE UP guitar0001" x="0" y="828" width="168.5" height="151.5" />
+    <SubTexture name="BF NOTE UP guitar0002" x="168.5" y="828" width="162.75" height="143.75" frameX="-4.25" frameY="-1.5" frameWidth="168.5" frameHeight="151.5" />
+    <SubTexture name="BF NOTE UP guitar0003" x="168.5" y="828" width="162.75" height="143.75" frameX="-4.25" frameY="-1.5" frameWidth="168.5" frameHeight="151.5" />
+    <SubTexture name="BF NOTE UP guitar0004" x="168.5" y="828" width="162.75" height="143.75" frameX="-4.25" frameY="-1.5" frameWidth="168.5" frameHeight="151.5" />
+    <SubTexture name="BF NOTE UP guitar0005" x="168.5" y="828" width="162.75" height="143.75" frameX="-4.25" frameY="-1.5" frameWidth="168.5" frameHeight="151.5" />
+    <SubTexture name="BF NOTE UP guitar0006" x="168.5" y="828" width="162.75" height="143.75" frameX="-4.25" frameY="-1.5" frameWidth="168.5" frameHeight="151.5" />
+    <SubTexture name="BF NOTE UP guitar0007" x="168.5" y="828" width="162.75" height="143.75" frameX="-4.25" frameY="-1.5" frameWidth="168.5" frameHeight="151.5" />
+    <SubTexture name="BF NOTE UP guitar0008" x="168.5" y="828" width="162.75" height="143.75" frameX="-4.25" frameY="-1.5" frameWidth="168.5" frameHeight="151.5" />
+    <SubTexture name="BF NOTE UP guitar0009" x="168.5" y="828" width="162.75" height="143.75" frameX="-4.25" frameY="-1.5" frameWidth="168.5" frameHeight="151.5" />
+    <SubTexture name="BF NOTE UP guitar0010" x="168.5" y="828" width="162.75" height="143.75" frameX="-4.25" frameY="-1.5" frameWidth="168.5" frameHeight="151.5" />
+    <SubTexture name="BF NOTE UP guitar0011" x="168.5" y="828" width="162.75" height="143.75" frameX="-4.25" frameY="-1.5" frameWidth="168.5" frameHeight="151.5" />
+    <SubTexture name="BF NOTE UP guitar0012" x="168.5" y="828" width="162.75" height="143.75" frameX="-4.25" frameY="-1.5" frameWidth="168.5" frameHeight="151.5" />
+    <SubTexture name="BF NOTE UP guitar0013" x="168.5" y="828" width="162.75" height="143.75" frameX="-4.25" frameY="-1.5" frameWidth="168.5" frameHeight="151.5" />
+    <SubTexture name="BF NOTE UP guitar0014" x="168.5" y="828" width="162.75" height="143.75" frameX="-4.25" frameY="-1.5" frameWidth="168.5" frameHeight="151.5" />
+    <SubTexture name="BF idle dance guitar0000" x="331.25" y="828" width="125.5" height="114.25" pivotX="-67.5875" pivotY="50.4" frameX="-4" frameY="-5" frameWidth="133" frameHeight="122.5" />
+    <SubTexture name="BF idle dance guitar0001" x="331.25" y="828" width="125.5" height="114.25" frameX="-4" frameY="-5" frameWidth="133" frameHeight="122.5" />
+    <SubTexture name="BF idle dance guitar0002" x="456.75" y="828" width="132.25" height="117.75" frameX="-0.25" frameY="-4.75" frameWidth="133" frameHeight="122.5" />
+    <SubTexture name="BF idle dance guitar0003" x="456.75" y="828" width="132.25" height="117.75" frameX="-0.25" frameY="-4.75" frameWidth="133" frameHeight="122.5" />
+    <SubTexture name="BF idle dance guitar0004" x="589" y="828" width="133" height="118.75" frameX="0" frameY="-3.5" frameWidth="133" frameHeight="122.5" />
+    <SubTexture name="BF idle dance guitar0005" x="589" y="828" width="133" height="118.75" frameX="0" frameY="-3.5" frameWidth="133" frameHeight="122.5" />
+    <SubTexture name="BF idle dance guitar0006" x="722" y="828" width="125.5" height="117.25" frameX="-4" frameY="-0.25" frameWidth="133" frameHeight="122.5" />
+    <SubTexture name="BF idle dance guitar0007" x="722" y="828" width="125.5" height="117.25" frameX="-4" frameY="-0.25" frameWidth="133" frameHeight="122.5" />
+    <SubTexture name="BF idle dance guitar0008" x="847.5" y="828" width="125.5" height="117.5" frameX="-4" frameY="0" frameWidth="133" frameHeight="122.5" />
+    <SubTexture name="BF idle dance guitar0009" x="847.5" y="828" width="125.5" height="117.5" frameX="-4" frameY="0" frameWidth="133" frameHeight="122.5" />
+    <SubTexture name="BF idle dance guitar0010" x="847.5" y="828" width="125.5" height="117.5" frameX="-4" frameY="0" frameWidth="133" frameHeight="122.5" />
+    <SubTexture name="BF idle dance guitar0011" x="847.5" y="828" width="125.5" height="117.5" frameX="-4" frameY="0" frameWidth="133" frameHeight="122.5" />
+    <SubTexture name="BF idle dance guitar0012" x="847.5" y="828" width="125.5" height="117.5" frameX="-4" frameY="0" frameWidth="133" frameHeight="122.5" />
+    <SubTexture name="BF idle dance guitar0013" x="847.5" y="828" width="125.5" height="117.5" frameX="-4" frameY="0" frameWidth="133" frameHeight="122.5" />
+</TextureAtlas>

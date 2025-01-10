@@ -1,0 +1,31 @@
+<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="Bendy remastered.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tutorial Bendy Idle Instance10000" x="1465.25" y="115" width="105.25" height="133.75" frameX="0" frameY="-3" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10001" x="1465.25" y="115" width="105.25" height="133.75" frameX="0" frameY="-3" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10002" x="1573" y="115" width="104.25" height="135.75" frameX="-1" frameY="-1" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10003" x="1573" y="115" width="104.25" height="135.75" frameX="-1" frameY="-1" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10004" x="1679.75" y="115" width="104.25" height="136.5" frameX="-1" frameY="-0.25" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10005" x="1679.75" y="115" width="104.25" height="136.5" frameX="-1" frameY="-0.25" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10006" x="1786.5" y="115" width="104.25" height="136.5" frameX="-1" frameY="-0.25" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10007" x="1786.5" y="115" width="104.25" height="136.5" frameX="-1" frameY="-0.25" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10008" x="1786.5" y="115" width="104.25" height="136.5" frameX="-1" frameY="-0.25" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10009" x="1893.25" y="115" width="104.25" height="136.75" frameX="-1" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10010" x="1893.25" y="115" width="104.25" height="136.75" frameX="-1" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10011" x="1893.25" y="115" width="104.25" height="136.75" frameX="-1" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10012" x="2.5" y="254.25" width="104.25" height="136.75" frameX="-1" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10013" x="2.5" y="254.25" width="104.25" height="136.75" frameX="-1" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10014" x="2.5" y="254.25" width="104.25" height="136.75" frameX="-1" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10015" x="2.5" y="254.25" width="104.25" height="136.75" frameX="-1" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10016" x="2.5" y="254.25" width="104.25" height="136.75" frameX="-1" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10017" x="2.5" y="254.25" width="104.25" height="136.75" frameX="-1" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10018" x="109.25" y="254.25" width="104.75" height="136.75" frameX="-0.75" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10019" x="109.25" y="254.25" width="104.75" height="136.75" frameX="-0.75" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10020" x="109.25" y="254.25" width="104.75" height="136.75" frameX="-0.75" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10021" x="109.25" y="254.25" width="104.75" height="136.75" frameX="-0.75" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10022" x="109.25" y="254.25" width="104.75" height="136.75" frameX="-0.75" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10023" x="109.25" y="254.25" width="104.75" height="136.75" frameX="-0.75" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10024" x="109.25" y="254.25" width="104.75" height="136.75" frameX="-0.75" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+	<SubTexture name="Tutorial Bendy Idle Instance10025" x="109.25" y="254.25" width="104.75" height="136.75" frameX="-0.75" frameY="0" frameWidth="105.5" frameHeight="136.75"/>
+</TextureAtlas>

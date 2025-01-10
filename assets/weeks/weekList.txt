@@ -1,5 +1,5 @@
-a-week square
-b-week square 2
-c-week1
-d-week2
-e-week3
+CrossedOut_tutorial
+CrossedOut_Easy
+CrossedOut_Normal
+CrossedOut_Hard
+CrossedOut_Hell

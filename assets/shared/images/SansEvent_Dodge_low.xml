@@ -1,0 +1,38 @@
+<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="DodgeMechs.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Alarm instance 10000" x="5" y="5" width="455.5" height="249.5"/>
+	<SubTexture name="Alarm instance 10001" x="465.5" y="5" width="455.5" height="249.5"/>
+	<SubTexture name="Alarm instance 10002" x="5" y="5" width="455.5" height="249.5"/>
+	<SubTexture name="Alarm instance 10003" x="465.5" y="5" width="455.5" height="249.5"/>
+	<SubTexture name="Alarm instance 10004" x="5" y="5" width="455.5" height="249.5"/>
+	<SubTexture name="Alarm instance 10005" x="465.5" y="5" width="455.5" height="249.5"/>
+	<SubTexture name="Alarm instance 10006" x="5" y="5" width="455.5" height="249.5"/>
+	<SubTexture name="Alarm instance 10007" x="465.5" y="5" width="455.5" height="249.5"/>
+	<SubTexture name="Alarm instance 10008" x="5" y="5" width="455.5" height="249.5"/>
+	<SubTexture name="Alarm instance 10009" x="465.5" y="5" width="455.5" height="249.5"/>
+	<SubTexture name="Bones boi instance 10000" x="926" y="5" width="451" height="60" frameX="-13" frameY="-213" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10001" x="1382" y="5" width="464" height="131" frameX="0" frameY="-142" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10002" x="5" y="259.5" width="487" height="202" frameX="0" frameY="-71" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10003" x="497" y="259.5" width="487" height="273"/>
+	<SubTexture name="Bones boi instance 10004" x="989" y="259.5" width="487" height="267" frameX="0" frameY="-6" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10005" x="1481" y="259.5" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10006" x="1481" y="259.5" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10007" x="1481" y="259.5" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10008" x="1481" y="259.5" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10009" x="1481" y="259.5" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10010" x="1481" y="259.5" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10011" x="1481" y="259.5" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10012" x="1481" y="259.5" width="487" height="265" frameX="0" frameY="-8" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10013" x="5" y="537.5" width="487" height="264.5" frameX="0" frameY="-8.5" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10014" x="497" y="537.5" width="487" height="262.5" frameX="0" frameY="-10.5" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10015" x="989" y="537.5" width="487" height="259.5" frameX="0" frameY="-13.5" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10016" x="1481" y="537.5" width="487" height="255.5" frameX="0" frameY="-17.5" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10017" x="5" y="807" width="487" height="250" frameX="0" frameY="-23" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10018" x="497" y="807" width="464" height="144.5" frameX="0" frameY="-128.5" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10019" x="966" y="807" width="451" height="81" frameX="-13" frameY="-192" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10020" x="926" y="5" width="451" height="60" frameX="-13" frameY="-213" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10021" x="1422" y="807" width="99" height="35" frameX="-188" frameY="-238" frameWidth="487" frameHeight="273"/>
+	<SubTexture name="Bones boi instance 10022" x="1500" y="1125" width="0.5" height="0.5"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="NMB.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DeathBendy instance 10000" x="5" y="5" width="313.5" height="292" frameX="-26.5" frameY="-33.5" frameWidth="354" frameHeight="326"/>
+	<SubTexture name="DeathBendy instance 10001" x="323.5" y="5" width="318" height="277.5" frameX="-14" frameY="-48" frameWidth="354" frameHeight="326"/>
+	<SubTexture name="DeathBendy instance 10002" x="646.5" y="5" width="320.5" height="290.5" frameX="-15.5" frameY="-35.5" frameWidth="354" frameHeight="326"/>
+	<SubTexture name="DeathBendy instance 10003" x="972" y="5" width="334" height="294.5" frameX="-11.5" frameY="-31.5" frameWidth="354" frameHeight="326"/>
+	<SubTexture name="DeathBendy instance 10004" x="1311" y="5" width="332" height="280.5" frameX="-13" frameY="-45.5" frameWidth="354" frameHeight="326"/>
+	<SubTexture name="DeathBendy instance 10005" x="1648" y="5" width="338" height="289" frameX="-8" frameY="-37" frameWidth="354" frameHeight="326"/>
+	<SubTexture name="DeathBendy instance 10006" x="1991" y="5" width="338.5" height="299" frameX="-15.5" frameY="-27" frameWidth="354" frameHeight="326"/>
+	<SubTexture name="DeathBendy instance 10007" x="2334.5" y="5" width="316" height="300" frameX="-25.5" frameY="-25.5" frameWidth="354" frameHeight="326"/>
+	<SubTexture name="DeathBendy instance 10008" x="2655.5" y="5" width="306.5" height="316.5" frameX="-28.5" frameY="-8.5" frameWidth="354" frameHeight="326"/>
+	<SubTexture name="DeathBendy instance 10009" x="2967" y="5" width="308" height="314" frameX="-20.5" frameY="-11" frameWidth="354" frameHeight="326"/>
+	<SubTexture name="DeathBendy instance 10010" x="3280" y="5" width="324.5" height="325" frameX="-12" frameY="0" frameWidth="354" frameHeight="326"/>
+	<SubTexture name="DeathBendy instance 10011" x="3609.5" y="5" width="346" height="293" frameX="0" frameY="-32" frameWidth="354" frameHeight="326"/>
+	<SubTexture name="DeathBendy instance 10012" x="5" y="335" width="339" height="306" frameX="0" frameY="-19.5" frameWidth="354" frameHeight="326"/>
+</TextureAtlas>
