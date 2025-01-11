@@ -1,0 +1,11 @@
+<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="tricky_yeeted.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Trickt yeeted0000" x="2.5" y="2.5" width="205.5" height="202" frameX="-418.25" frameY="-368" frameWidth="625" frameHeight="570"/>
+	<SubTexture name="Trickt yeeted0001" x="211" y="2.5" width="253.75" height="207" frameX="-371.25" frameY="-342" frameWidth="625" frameHeight="570"/>
+	<SubTexture name="Trickt yeeted0002" x="467.75" y="2.5" width="226.5" height="265.75" frameX="-326.75" frameY="-246.25" frameWidth="625" frameHeight="570"/>
+	<SubTexture name="Trickt yeeted0003" x="697.25" y="2.5" width="208.75" height="272.75" frameX="-198" frameY="-101.75" frameWidth="625" frameHeight="570"/>
+	<SubTexture name="Trickt yeeted0004" x="2.5" y="278.25" width="234.5" height="222.5" frameX="0" frameY="0" frameWidth="625" frameHeight="570"/>
+	<SubTexture name="Trickt yeeted0005" x="240" y="278.25" width="0" height="0" frameX="-337.25" frameY="-241.75" frameWidth="625" frameHeight="570"/>
+</TextureAtlas>

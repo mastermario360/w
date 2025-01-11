@@ -1,0 +1,131 @@
+<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="efn_gameover.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="deth loop0000" x="2.5" y="2.5" width="107" height="70.25" pivotX="2.0625" pivotY="0.3"/>
+	<SubTexture name="deth loop0001" x="112" y="2.5" width="107" height="70.25"/>
+	<SubTexture name="deth loop0002" x="221.5" y="2.5" width="107" height="70.25"/>
+	<SubTexture name="deth loop0003" x="331" y="2.5" width="107" height="70.25"/>
+	<SubTexture name="deth loop0004" x="440.5" y="2.5" width="107" height="70.25"/>
+	<SubTexture name="deth loop0005" x="550" y="2.5" width="107" height="70.25"/>
+	<SubTexture name="deth loop0006" x="659.5" y="2.5" width="107" height="70.25"/>
+	<SubTexture name="deth loop0007" x="769" y="2.5" width="107" height="70.25"/>
+	<SubTexture name="deth loop0008" x="878.5" y="2.5" width="107" height="70.25"/>
+	<SubTexture name="deth loop0009" x="2.5" y="75.25" width="107" height="70.25"/>
+	<SubTexture name="deth loop0010" x="112" y="75.25" width="107" height="70.25"/>
+	<SubTexture name="deth loop0011" x="221.5" y="75.25" width="107" height="70.25"/>
+	<SubTexture name="deth loop0012" x="331" y="75.25" width="107" height="70.25"/>
+	<SubTexture name="deth loop0013" x="440.5" y="75.25" width="107" height="70.25"/>
+	<SubTexture name="deth loop0014" x="550" y="75.25" width="107" height="70.25"/>
+	<SubTexture name="deth loop0015" x="659.5" y="75.25" width="107" height="70.25"/>
+	<SubTexture name="deth loop0016" x="769" y="75.25" width="107" height="70.25"/>
+	<SubTexture name="deth loop0017" x="878.5" y="75.25" width="107" height="70.25"/>
+	<SubTexture name="deth loop0018" x="2.5" y="148" width="107" height="70.25"/>
+	<SubTexture name="deth loop0019" x="112" y="148" width="107" height="70.25"/>
+	<SubTexture name="deth loop0020" x="221.5" y="148" width="107" height="70.25"/>
+	<SubTexture name="deth loop0021" x="331" y="148" width="107" height="70.25"/>
+	<SubTexture name="deth loop0022" x="440.5" y="148" width="107" height="70.25"/>
+	<SubTexture name="deth loop0023" x="550" y="148" width="107" height="70.25"/>
+	<SubTexture name="deth loop0024" x="659.5" y="148" width="107" height="70.25"/>
+	<SubTexture name="deth loop0025" x="769" y="148" width="107" height="70.25"/>
+	<SubTexture name="deth loop0026" x="878.5" y="148" width="107" height="70.25"/>
+	<SubTexture name="deth loop0027" x="2.5" y="220.75" width="107" height="70.25"/>
+	<SubTexture name="deth loop0028" x="112" y="220.75" width="107" height="70.25"/>
+	<SubTexture name="deth loop0029" x="221.5" y="220.75" width="107" height="70.25"/>
+	<SubTexture name="deth loop0030" x="331" y="220.75" width="107" height="70.25"/>
+	<SubTexture name="deth loop0031" x="440.5" y="220.75" width="107" height="70.25"/>
+	<SubTexture name="deth loop0032" x="550" y="220.75" width="107" height="70.25"/>
+	<SubTexture name="deth loop0033" x="659.5" y="220.75" width="107" height="70.25"/>
+	<SubTexture name="hedies0000" x="769" y="220.75" width="121.5" height="86.75" pivotX="10.65" pivotY="4.0875"/>
+	<SubTexture name="hedies0001" x="893" y="220.75" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0002" x="2.5" y="310" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0003" x="126.5" y="310" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0004" x="250.5" y="310" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0005" x="374.5" y="310" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0006" x="498.5" y="310" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0007" x="622.5" y="310" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0008" x="746.5" y="310" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0009" x="870.5" y="310" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0010" x="2.5" y="399.25" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0011" x="126.5" y="399.25" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0012" x="126.5" y="399.25" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0013" x="250.5" y="399.25" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0014" x="374.5" y="399.25" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0015" x="498.5" y="399.25" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0016" x="498.5" y="399.25" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0017" x="622.5" y="399.25" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0018" x="746.5" y="399.25" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0019" x="870.5" y="399.25" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0020" x="2.5" y="488.5" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0021" x="126.5" y="488.5" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0022" x="250.5" y="488.5" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0023" x="374.5" y="488.5" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0024" x="498.5" y="488.5" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0025" x="622.5" y="488.5" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0026" x="746.5" y="488.5" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0027" x="870.5" y="488.5" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0028" x="870.5" y="488.5" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0029" x="2.5" y="577.75" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0030" x="126.5" y="577.75" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0031" x="250.5" y="577.75" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0032" x="250.5" y="577.75" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0033" x="374.5" y="577.75" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0034" x="374.5" y="577.75" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0035" x="498.5" y="577.75" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0036" x="746.5" y="488.5" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0037" x="746.5" y="488.5" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0038" x="746.5" y="488.5" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0039" x="622.5" y="577.75" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0040" x="622.5" y="577.75" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0041" x="746.5" y="577.75" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0042" x="870.5" y="577.75" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0043" x="2.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0044" x="2.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0045" x="126.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0046" x="126.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0047" x="126.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0048" x="250.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0049" x="374.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0050" x="374.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0051" x="498.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0052" x="498.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0053" x="622.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0054" x="746.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0055" x="870.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0056" x="870.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="hedies0057" x="126.5" y="667" width="121.5" height="86.75"/>
+	<SubTexture name="retry yes!0000" x="2.5" y="756.25" width="130" height="70" pivotX="25.2" pivotY="0"/>
+	<SubTexture name="retry yes!0001" x="135" y="756.25" width="130" height="70"/>
+	<SubTexture name="retry yes!0002" x="267.5" y="756.25" width="130" height="70"/>
+	<SubTexture name="retry yes!0003" x="400" y="756.25" width="130" height="70"/>
+	<SubTexture name="retry yes!0004" x="532.5" y="756.25" width="130" height="70"/>
+	<SubTexture name="retry yes!0005" x="665" y="756.25" width="130" height="70"/>
+	<SubTexture name="retry yes!0006" x="797.5" y="756.25" width="130" height="70"/>
+	<SubTexture name="retry yes!0007" x="2.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0008" x="135" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0009" x="267.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0010" x="400" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0011" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0012" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0013" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0014" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0015" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0016" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0017" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0018" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0019" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0020" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0021" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0022" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0023" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0024" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0025" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0026" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0027" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0028" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0029" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0030" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0031" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0032" x="532.5" y="828.75" width="130" height="70"/>
+	<SubTexture name="retry yes!0033" x="532.5" y="828.75" width="130" height="70"/>
+</TextureAtlas>

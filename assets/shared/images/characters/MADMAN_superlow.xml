@@ -1,0 +1,88 @@
+<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="MADMAN.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Anti-Hank Block0000" x="2.5" y="2.5" width="163.75" height="167.25"/>
+	<SubTexture name="Anti-Hank Block0001" x="166.25" y="2.5" width="163.75" height="167.25"/>
+	<SubTexture name="Anti-Hank Block0002" x="330" y="2.5" width="163.75" height="167.25"/>
+	<SubTexture name="Anti-Hank Block0003" x="493.75" y="2.5" width="163.75" height="167.25"/>
+	<SubTexture name="Anti-Hank Block0004" x="657.5" y="2.5" width="163.75" height="167.25"/>
+	<SubTexture name="Anti-Hank Block0005" x="821.25" y="2.5" width="163.75" height="167.25"/>
+	<SubTexture name="Anti-Hank Block0006" x="985" y="2.5" width="163.75" height="167.25"/>
+	<SubTexture name="Anti-Hank Block0007" x="985" y="2.5" width="163.75" height="167.25"/>
+	<SubTexture name="Anti-Hank Block0008" x="1148.75" y="2.5" width="163.75" height="167.25"/>
+	<SubTexture name="Anti-Hank Block0009" x="1312.5" y="2.5" width="163.75" height="167.25"/>
+	<SubTexture name="Anti-Hank Block0010" x="1476.25" y="2.5" width="163.75" height="167.25"/>
+	<SubTexture name="Anti-Hank Block0011" x="1476.25" y="2.5" width="163.75" height="167.25"/>
+	<SubTexture name="Anti-Hank Block0012" x="1476.25" y="2.5" width="163.75" height="167.25"/>
+	<SubTexture name="MAD-Hank Idle0000" x="1640" y="2.5" width="225.25" height="165"/>
+	<SubTexture name="MAD-Hank Idle0001" x="2.5" y="169.75" width="225.25" height="165"/>
+	<SubTexture name="MAD-Hank Idle0002" x="227.75" y="169.75" width="225.25" height="165"/>
+	<SubTexture name="MAD-Hank Idle0003" x="453" y="169.75" width="225.25" height="165"/>
+	<SubTexture name="MAD-Hank Idle0004" x="678.25" y="169.75" width="225.25" height="165"/>
+	<SubTexture name="MAD-Hank Idle0005" x="903.5" y="169.75" width="225.25" height="165"/>
+	<SubTexture name="MAD-Hank Idle0006" x="1128.75" y="169.75" width="225.25" height="165"/>
+	<SubTexture name="MAD-Hank Idle0007" x="1354" y="169.75" width="225.25" height="165"/>
+	<SubTexture name="MAD-Hank Idle0008" x="1579.25" y="169.75" width="225.25" height="165"/>
+	<SubTexture name="MAD-Hank Idle0009" x="1804.5" y="169.75" width="225.25" height="165"/>
+	<SubTexture name="MAD-Hank Idle0010" x="2.5" y="334.75" width="225.25" height="165"/>
+	<SubTexture name="MAD-Hank Idle0011" x="227.75" y="334.75" width="225.25" height="165"/>
+	<SubTexture name="MAD-Hank Idle0012" x="227.75" y="334.75" width="225.25" height="165"/>
+	<SubTexture name="MAD-Hank Idle0013" x="227.75" y="334.75" width="225.25" height="165"/>
+	<SubTexture name="MAD-Hank M DOWN0000" x="453" y="334.75" width="228.5" height="159.75"/>
+	<SubTexture name="MAD-Hank M DOWN0001" x="681.5" y="334.75" width="228.5" height="159.75"/>
+	<SubTexture name="MAD-Hank M DOWN0002" x="910" y="334.75" width="228.5" height="159.75"/>
+	<SubTexture name="MAD-Hank M DOWN0003" x="1138.5" y="334.75" width="228.5" height="159.75"/>
+	<SubTexture name="MAD-Hank M DOWN0004" x="1367" y="334.75" width="228.5" height="159.75"/>
+	<SubTexture name="MAD-Hank M DOWN0005" x="1138.5" y="334.75" width="228.5" height="159.75"/>
+	<SubTexture name="MAD-Hank M DOWN0006" x="1367" y="334.75" width="228.5" height="159.75"/>
+	<SubTexture name="MAD-Hank M DOWN0007" x="1138.5" y="334.75" width="228.5" height="159.75"/>
+	<SubTexture name="MAD-Hank M DOWN0008" x="1367" y="334.75" width="228.5" height="159.75"/>
+	<SubTexture name="MAD-Hank M DOWN0009" x="1138.5" y="334.75" width="228.5" height="159.75"/>
+	<SubTexture name="MAD-Hank M DOWN0010" x="1367" y="334.75" width="228.5" height="159.75"/>
+	<SubTexture name="MAD-Hank M DOWN0011" x="1138.5" y="334.75" width="228.5" height="159.75"/>
+	<SubTexture name="MAD-Hank M DOWN0012" x="1367" y="334.75" width="228.5" height="159.75"/>
+	<SubTexture name="MAD-Hank M DOWN0013" x="1138.5" y="334.75" width="228.5" height="159.75"/>
+	<SubTexture name="MAD-Hank M LEFT0000" x="1595.5" y="334.75" width="232.5" height="162.75"/>
+	<SubTexture name="MAD-Hank M LEFT0001" x="2.5" y="499.75" width="232.5" height="162.75"/>
+	<SubTexture name="MAD-Hank M LEFT0002" x="235" y="499.75" width="232.5" height="162.75"/>
+	<SubTexture name="MAD-Hank M LEFT0003" x="467.5" y="499.75" width="232.5" height="162.75"/>
+	<SubTexture name="MAD-Hank M LEFT0004" x="700" y="499.75" width="232.5" height="162.75"/>
+	<SubTexture name="MAD-Hank M LEFT0005" x="467.5" y="499.75" width="232.5" height="162.75"/>
+	<SubTexture name="MAD-Hank M LEFT0006" x="700" y="499.75" width="232.5" height="162.75"/>
+	<SubTexture name="MAD-Hank M LEFT0007" x="467.5" y="499.75" width="232.5" height="162.75"/>
+	<SubTexture name="MAD-Hank M LEFT0008" x="700" y="499.75" width="232.5" height="162.75"/>
+	<SubTexture name="MAD-Hank M LEFT0009" x="467.5" y="499.75" width="232.5" height="162.75"/>
+	<SubTexture name="MAD-Hank M LEFT0010" x="700" y="499.75" width="232.5" height="162.75"/>
+	<SubTexture name="MAD-Hank M LEFT0011" x="467.5" y="499.75" width="232.5" height="162.75"/>
+	<SubTexture name="MAD-Hank M LEFT0012" x="700" y="499.75" width="232.5" height="162.75"/>
+	<SubTexture name="MAD-Hank M LEFT0013" x="467.5" y="499.75" width="232.5" height="162.75"/>
+	<SubTexture name="MAD-Hank M RIGHT0000" x="932.5" y="499.75" width="235" height="147"/>
+	<SubTexture name="MAD-Hank M RIGHT0001" x="1167.5" y="499.75" width="235" height="147"/>
+	<SubTexture name="MAD-Hank M RIGHT0002" x="1402.5" y="499.75" width="235" height="147"/>
+	<SubTexture name="MAD-Hank M RIGHT0003" x="1637.5" y="499.75" width="235" height="147"/>
+	<SubTexture name="MAD-Hank M RIGHT0004" x="2.5" y="662.5" width="235" height="147"/>
+	<SubTexture name="MAD-Hank M RIGHT0005" x="237.5" y="662.5" width="235" height="147"/>
+	<SubTexture name="MAD-Hank M RIGHT0006" x="2.5" y="662.5" width="235" height="147"/>
+	<SubTexture name="MAD-Hank M RIGHT0007" x="237.5" y="662.5" width="235" height="147"/>
+	<SubTexture name="MAD-Hank M RIGHT0008" x="2.5" y="662.5" width="235" height="147"/>
+	<SubTexture name="MAD-Hank M RIGHT0009" x="237.5" y="662.5" width="235" height="147"/>
+	<SubTexture name="MAD-Hank M RIGHT0010" x="2.5" y="662.5" width="235" height="147"/>
+	<SubTexture name="MAD-Hank M RIGHT0011" x="237.5" y="662.5" width="235" height="147"/>
+	<SubTexture name="MAD-Hank M RIGHT0012" x="2.5" y="662.5" width="235" height="147"/>
+	<SubTexture name="MAD-Hank M RIGHT0013" x="237.5" y="662.5" width="235" height="147"/>
+	<SubTexture name="MAD-Hank M UP0000" x="472.5" y="662.5" width="229.25" height="185.75"/>
+	<SubTexture name="MAD-Hank M UP0001" x="701.75" y="662.5" width="229.25" height="185.75"/>
+	<SubTexture name="MAD-Hank M UP0002" x="931" y="662.5" width="229.25" height="185.75"/>
+	<SubTexture name="MAD-Hank M UP0003" x="1160.25" y="662.5" width="229.25" height="185.75"/>
+	<SubTexture name="MAD-Hank M UP0004" x="1389.5" y="662.5" width="229.25" height="185.75"/>
+	<SubTexture name="MAD-Hank M UP0005" x="1160.25" y="662.5" width="229.25" height="185.75"/>
+	<SubTexture name="MAD-Hank M UP0006" x="1389.5" y="662.5" width="229.25" height="185.75"/>
+	<SubTexture name="MAD-Hank M UP0007" x="1160.25" y="662.5" width="229.25" height="185.75"/>
+	<SubTexture name="MAD-Hank M UP0008" x="1389.5" y="662.5" width="229.25" height="185.75"/>
+	<SubTexture name="MAD-Hank M UP0009" x="1160.25" y="662.5" width="229.25" height="185.75"/>
+	<SubTexture name="MAD-Hank M UP0010" x="1389.5" y="662.5" width="229.25" height="185.75"/>
+	<SubTexture name="MAD-Hank M UP0011" x="1160.25" y="662.5" width="229.25" height="185.75"/>
+	<SubTexture name="MAD-Hank M UP0012" x="1389.5" y="662.5" width="229.25" height="185.75"/>
+	<SubTexture name="MAD-Hank M UP0013" x="1160.25" y="662.5" width="229.25" height="185.75"/>
+</TextureAtlas>

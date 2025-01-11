@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="charsel-bf.png"><SubTexture name="charsel-bf unsel0000" x="0" y="0" width="642" height="362" frameX="0" frameY="0" frameWidth="642" frameHeight="362" />
+<SubTexture name="charsel-bf selected0000" x="0" y="362" width="642" height="362" frameX="0" frameY="0" frameWidth="642" frameHeight="362" />
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="train_grab_grunt.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="train grab0000" x="0" y="0" width="232" height="152.25" frameX="-0.25" frameY="-2" frameWidth="232.25" frameHeight="160.25"/>
+	<SubTexture name="train grab0001" x="232" y="0" width="232" height="147.75" frameX="-0.25" frameY="-2.25" frameWidth="232.25" frameHeight="160.25"/>
+	<SubTexture name="train grab0002" x="0" y="152.25" width="232" height="145" frameX="-0.25" frameY="-1.5" frameWidth="232.25" frameHeight="160.25"/>
+	<SubTexture name="train grab0003" x="232" y="152.25" width="231.5" height="159" frameX="0" frameY="0" frameWidth="232.25" frameHeight="160.25"/>
+	<SubTexture name="train grab0004" x="0" y="311.25" width="231.25" height="158.25" frameX="0" frameY="-2" frameWidth="232.25" frameHeight="160.25"/>
+	<SubTexture name="train grab0005" x="231.25" y="311.25" width="231.5" height="156.25" frameX="0" frameY="-2" frameWidth="232.25" frameHeight="160.25"/>
+</TextureAtlas>

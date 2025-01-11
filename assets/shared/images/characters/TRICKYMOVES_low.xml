@@ -1,0 +1,109 @@
+<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="TRICKYMOVES.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Conductric  M Left0000" x="5" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric  M Left0001" x="343.5" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric  M Left0002" x="682" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric  M Left0003" x="1020.5" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric  M Left0004" x="682" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric  M Left0005" x="1020.5" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric  M Left0006" x="682" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric  M Left0007" x="1020.5" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric  M Left0008" x="682" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric  M Left0009" x="1020.5" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric  M Left0010" x="682" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric  M Left0011" x="1020.5" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric  M Left0012" x="682" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric  M Left0013" x="1020.5" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric  M Left0014" x="682" y="5" width="333.5" height="393"/>
+	<SubTexture name="Conductric Hurt0000" x="1359" y="5" width="449" height="396"/>
+	<SubTexture name="Conductric Hurt0001" x="1813" y="5" width="449" height="396"/>
+	<SubTexture name="Conductric Hurt0002" x="2267" y="5" width="449" height="396"/>
+	<SubTexture name="Conductric Hurt0003" x="2721" y="5" width="449" height="396"/>
+	<SubTexture name="Conductric Hurt0004" x="3175" y="5" width="449" height="396"/>
+	<SubTexture name="Conductric Hurt0005" x="3629" y="5" width="449" height="396"/>
+	<SubTexture name="Conductric Idle0000" x="5" y="406" width="377" height="387.5"/>
+	<SubTexture name="Conductric Idle0001" x="387" y="406" width="377" height="387.5"/>
+	<SubTexture name="Conductric Idle0002" x="769" y="406" width="377" height="387.5"/>
+	<SubTexture name="Conductric Idle0003" x="1151" y="406" width="377" height="387.5"/>
+	<SubTexture name="Conductric Idle0004" x="1533" y="406" width="377" height="387.5"/>
+	<SubTexture name="Conductric Idle0005" x="1915" y="406" width="377" height="387.5"/>
+	<SubTexture name="Conductric Idle0006" x="2297" y="406" width="377" height="387.5"/>
+	<SubTexture name="Conductric Idle0007" x="2679" y="406" width="377" height="387.5"/>
+	<SubTexture name="Conductric Idle0008" x="3061" y="406" width="377" height="387.5"/>
+	<SubTexture name="Conductric Idle0009" x="3443" y="406" width="377" height="387.5"/>
+	<SubTexture name="Conductric Idle0010" x="5" y="798.5" width="377" height="387.5"/>
+	<SubTexture name="Conductric Idle0011" x="387" y="798.5" width="377" height="387.5"/>
+	<SubTexture name="Conductric Idle0012" x="769" y="798.5" width="377" height="387.5"/>
+	<SubTexture name="Conductric Idle0013" x="1151" y="798.5" width="377" height="387.5"/>
+	<SubTexture name="Conductric Idle0014" x="1533" y="798.5" width="377" height="387.5"/>
+	<SubTexture name="Conductric M ATK10000" x="1915" y="798.5" width="728" height="520"/>
+	<SubTexture name="Conductric M ATK10001" x="2648" y="798.5" width="728" height="520"/>
+	<SubTexture name="Conductric M ATK10002" x="5" y="1323.5" width="728" height="520"/>
+	<SubTexture name="Conductric M ATK10003" x="738" y="1323.5" width="728" height="520"/>
+	<SubTexture name="Conductric M ATK10004" x="1471" y="1323.5" width="728" height="520"/>
+	<SubTexture name="Conductric M ATK10005" x="2204" y="1323.5" width="728" height="520"/>
+	<SubTexture name="Conductric M ATK10006" x="2937" y="1323.5" width="728" height="520"/>
+	<SubTexture name="Conductric M ATK10007" x="5" y="1848.5" width="728" height="520"/>
+	<SubTexture name="Conductric M ATK20000" x="738" y="1848.5" width="807" height="362.5"/>
+	<SubTexture name="Conductric M ATK20001" x="1550" y="1848.5" width="807" height="362.5"/>
+	<SubTexture name="Conductric M ATK20002" x="2362" y="1848.5" width="807" height="362.5"/>
+	<SubTexture name="Conductric M ATK20003" x="3174" y="1848.5" width="807" height="362.5"/>
+	<SubTexture name="Conductric M ATK20004" x="5" y="2373.5" width="807" height="362.5"/>
+	<SubTexture name="Conductric M ATK20005" x="817" y="2373.5" width="807" height="362.5"/>
+	<SubTexture name="Conductric M DEF0000" x="1629" y="2373.5" width="453.5" height="453"/>
+	<SubTexture name="Conductric M DEF0001" x="2087.5" y="2373.5" width="453.5" height="453"/>
+	<SubTexture name="Conductric M DEF0002" x="2546" y="2373.5" width="453.5" height="453"/>
+	<SubTexture name="Conductric M DEF0003" x="3004.5" y="2373.5" width="453.5" height="453"/>
+	<SubTexture name="Conductric M DEF0004" x="3463" y="2373.5" width="453.5" height="453"/>
+	<SubTexture name="Conductric M DEF0005" x="5" y="2831.5" width="453.5" height="453"/>
+	<SubTexture name="Conductric M DEF0006" x="463.5" y="2831.5" width="453.5" height="453"/>
+	<SubTexture name="Conductric M DEF0007" x="922" y="2831.5" width="453.5" height="453"/>
+	<SubTexture name="Conductric M DEF0008" x="1380.5" y="2831.5" width="453.5" height="453"/>
+	<SubTexture name="Conductric M DEF0009" x="1839" y="2831.5" width="453.5" height="453"/>
+	<SubTexture name="Conductric M DEF0010" x="2297.5" y="2831.5" width="453.5" height="453"/>
+	<SubTexture name="Conductric M Down0000" x="2756" y="2831.5" width="381.5" height="248"/>
+	<SubTexture name="Conductric M Down0001" x="3142.5" y="2831.5" width="381.5" height="248"/>
+	<SubTexture name="Conductric M Down0002" x="3529" y="2831.5" width="381.5" height="248"/>
+	<SubTexture name="Conductric M Down0003" x="5" y="3289.5" width="381.5" height="248"/>
+	<SubTexture name="Conductric M Down0004" x="3529" y="2831.5" width="381.5" height="248"/>
+	<SubTexture name="Conductric M Down0005" x="5" y="3289.5" width="381.5" height="248"/>
+	<SubTexture name="Conductric M Down0006" x="3529" y="2831.5" width="381.5" height="248"/>
+	<SubTexture name="Conductric M Down0007" x="5" y="3289.5" width="381.5" height="248"/>
+	<SubTexture name="Conductric M Down0008" x="3529" y="2831.5" width="381.5" height="248"/>
+	<SubTexture name="Conductric M Down0009" x="5" y="3289.5" width="381.5" height="248"/>
+	<SubTexture name="Conductric M Down0010" x="3529" y="2831.5" width="381.5" height="248"/>
+	<SubTexture name="Conductric M Down0011" x="5" y="3289.5" width="381.5" height="248"/>
+	<SubTexture name="Conductric M Down0012" x="3529" y="2831.5" width="381.5" height="248"/>
+	<SubTexture name="Conductric M Down0013" x="5" y="3289.5" width="381.5" height="248"/>
+	<SubTexture name="Conductric M Right0000" x="391.5" y="3289.5" width="381.5" height="334.5"/>
+	<SubTexture name="Conductric M Right0001" x="778" y="3289.5" width="381.5" height="334.5"/>
+	<SubTexture name="Conductric M Right0002" x="1164.5" y="3289.5" width="381.5" height="334.5"/>
+	<SubTexture name="Conductric M Right0003" x="1551" y="3289.5" width="381.5" height="334.5"/>
+	<SubTexture name="Conductric M Right0004" x="1164.5" y="3289.5" width="381.5" height="334.5"/>
+	<SubTexture name="Conductric M Right0005" x="1551" y="3289.5" width="381.5" height="334.5"/>
+	<SubTexture name="Conductric M Right0006" x="1164.5" y="3289.5" width="381.5" height="334.5"/>
+	<SubTexture name="Conductric M Right0007" x="1551" y="3289.5" width="381.5" height="334.5"/>
+	<SubTexture name="Conductric M Right0008" x="1164.5" y="3289.5" width="381.5" height="334.5"/>
+	<SubTexture name="Conductric M Right0009" x="1551" y="3289.5" width="381.5" height="334.5"/>
+	<SubTexture name="Conductric M Right0010" x="1164.5" y="3289.5" width="381.5" height="334.5"/>
+	<SubTexture name="Conductric M Right0011" x="1551" y="3289.5" width="381.5" height="334.5"/>
+	<SubTexture name="Conductric M Right0012" x="1164.5" y="3289.5" width="381.5" height="334.5"/>
+	<SubTexture name="Conductric M Right0013" x="1551" y="3289.5" width="381.5" height="334.5"/>
+	<SubTexture name="Conductric M UP0000" x="1937.5" y="3289.5" width="383" height="406"/>
+	<SubTexture name="Conductric M UP0001" x="2325.5" y="3289.5" width="383" height="406"/>
+	<SubTexture name="Conductric M UP0002" x="2713.5" y="3289.5" width="383" height="406"/>
+	<SubTexture name="Conductric M UP0003" x="3101.5" y="3289.5" width="383" height="406"/>
+	<SubTexture name="Conductric M UP0004" x="2713.5" y="3289.5" width="383" height="406"/>
+	<SubTexture name="Conductric M UP0005" x="3101.5" y="3289.5" width="383" height="406"/>
+	<SubTexture name="Conductric M UP0006" x="2713.5" y="3289.5" width="383" height="406"/>
+	<SubTexture name="Conductric M UP0007" x="3101.5" y="3289.5" width="383" height="406"/>
+	<SubTexture name="Conductric M UP0008" x="2713.5" y="3289.5" width="383" height="406"/>
+	<SubTexture name="Conductric M UP0009" x="3101.5" y="3289.5" width="383" height="406"/>
+	<SubTexture name="Conductric M UP0010" x="2713.5" y="3289.5" width="383" height="406"/>
+	<SubTexture name="Conductric M UP0011" x="3101.5" y="3289.5" width="383" height="406"/>
+	<SubTexture name="Conductric M UP0012" x="2713.5" y="3289.5" width="383" height="406"/>
+	<SubTexture name="Conductric M UP0013" x="3101.5" y="3289.5" width="383" height="406"/>
+	<SubTexture name="Conductric M UP0014" x="2713.5" y="3289.5" width="383" height="406"/>
+</TextureAtlas>

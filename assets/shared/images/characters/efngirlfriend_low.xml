@@ -1,0 +1,50 @@
+<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="efngirlfriend.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf cheer0000" x="25" y="410.5" width="288.5" height="337" frameX="0" frameY="-7" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf cheer0001" x="25" y="410.5" width="288.5" height="337" frameX="0" frameY="-7" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf cheer0002" x="1372" y="794.5" width="280" height="336.5" frameX="0" frameY="-7" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf cheer0003" x="1343" y="1188" width="281" height="336.5" frameX="0" frameY="-7" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf cheer0004" x="684" y="1578.5" width="279.5" height="336.5" frameX="0" frameY="-7" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf cheer0005" x="354.5" y="1182" width="279.5" height="341" frameX="0" frameY="-2.5" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf cheer0006" x="354.5" y="1182" width="279.5" height="341" frameX="0" frameY="-2.5" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf cheer0007" x="1042.5" y="794.5" width="279.5" height="343.5" frameX="0" frameY="0" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf cheer0008" x="25" y="1182" width="279.5" height="343.5" frameX="0" frameY="0" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf cheer0009" x="25" y="1575.5" width="279.5" height="339" frameX="0" frameY="-4.5" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf cheer0010" x="684" y="819" width="279.5" height="340.5" frameX="0" frameY="-3" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf cheer0011" x="1013.5" y="1188" width="279.5" height="340.5" frameX="0" frameY="-3" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf cheer0012" x="1013.5" y="1188" width="279.5" height="340.5" frameX="0" frameY="-3" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf cheer0013" x="1013.5" y="1188" width="279.5" height="340.5" frameX="0" frameY="-3" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf cheer0014" x="354.5" y="1573" width="279.5" height="340.5" frameX="0" frameY="-3" frameWidth="288.5" frameHeight="344"/>
+	<SubTexture name="gf idle0000" x="25" y="25" width="319" height="335.5"/>
+	<SubTexture name="gf idle0001" x="25" y="25" width="319" height="335.5"/>
+	<SubTexture name="gf idle0002" x="1381" y="25" width="280" height="335" frameX="-30.5" frameY="0" frameWidth="319" frameHeight="335.5"/>
+	<SubTexture name="gf idle0003" x="1343" y="1574.5" width="281" height="335" frameX="-30.5" frameY="0" frameWidth="319" frameHeight="335.5"/>
+	<SubTexture name="gf idle0004" x="25" y="797.5" width="288.5" height="334.5" frameX="-21.5" frameY="-0.5" frameWidth="319" frameHeight="335.5"/>
+	<SubTexture name="gf idle0005" x="1042.5" y="410" width="288.5" height="334.5" frameX="-21.5" frameY="-0.5" frameWidth="319" frameHeight="335.5"/>
+	<SubTexture name="gf idle0006" x="363.5" y="434" width="289.5" height="335" frameX="-20.5" frameY="0" frameWidth="319" frameHeight="335.5"/>
+	<SubTexture name="gf idle0007" x="363.5" y="434" width="289.5" height="335" frameX="-20.5" frameY="0" frameWidth="319" frameHeight="335.5"/>
+	<SubTexture name="gf idle0008" x="703" y="434" width="289.5" height="335" frameX="-20.5" frameY="0" frameWidth="319" frameHeight="335.5"/>
+	<SubTexture name="gf idle0009" x="703" y="434" width="289.5" height="335" frameX="-20.5" frameY="0" frameWidth="319" frameHeight="335.5"/>
+	<SubTexture name="gf idle0010" x="703" y="434" width="289.5" height="335" frameX="-20.5" frameY="0" frameWidth="319" frameHeight="335.5"/>
+	<SubTexture name="gf idle0011" x="703" y="434" width="289.5" height="335" frameX="-20.5" frameY="0" frameWidth="319" frameHeight="335.5"/>
+	<SubTexture name="gf idle0012" x="703" y="434" width="289.5" height="335" frameX="-20.5" frameY="0" frameWidth="319" frameHeight="335.5"/>
+	<SubTexture name="gf idle0013" x="703" y="434" width="289.5" height="335" frameX="-20.5" frameY="0" frameWidth="319" frameHeight="335.5"/>
+	<SubTexture name="gf idle0014" x="715" y="25" width="289.5" height="335" frameX="-20.5" frameY="0" frameWidth="319" frameHeight="335.5"/>
+	<SubTexture name="gf shock0000" x="394" y="25" width="271" height="359"/>
+	<SubTexture name="gf shock0001" x="394" y="25" width="271" height="359"/>
+	<SubTexture name="gf shock0002" x="1013.5" y="1578.5" width="259.5" height="358.5" frameX="0" frameY="0" frameWidth="271" frameHeight="359"/>
+	<SubTexture name="gf shock0003" x="1013.5" y="1578.5" width="259.5" height="358.5" frameX="0" frameY="0" frameWidth="271" frameHeight="359"/>
+	<SubTexture name="gf shock0004" x="1674" y="1181" width="259.5" height="358.5" frameX="-0.5" frameY="0" frameWidth="271" frameHeight="359"/>
+	<SubTexture name="gf shock0005" x="1674" y="1589.5" width="259" height="358.5" frameX="-0.5" frameY="0" frameWidth="271" frameHeight="359"/>
+	<SubTexture name="gf shock0006" x="1674" y="1589.5" width="259" height="358.5" frameX="-0.5" frameY="0" frameWidth="271" frameHeight="359"/>
+	<SubTexture name="gf shock0007" x="1674" y="1589.5" width="259" height="358.5" frameX="-0.5" frameY="0" frameWidth="271" frameHeight="359"/>
+	<SubTexture name="gf shock0008" x="1674" y="1589.5" width="259" height="358.5" frameX="-0.5" frameY="0" frameWidth="271" frameHeight="359"/>
+	<SubTexture name="gf shock0009" x="1674" y="1589.5" width="259" height="358.5" frameX="-0.5" frameY="0" frameWidth="271" frameHeight="359"/>
+	<SubTexture name="gf shock0010" x="1674" y="1589.5" width="259" height="358.5" frameX="-0.5" frameY="0" frameWidth="271" frameHeight="359"/>
+	<SubTexture name="gf shock0011" x="1674" y="1589.5" width="259" height="358.5" frameX="-0.5" frameY="0" frameWidth="271" frameHeight="359"/>
+	<SubTexture name="gf shock0012" x="1674" y="1589.5" width="259" height="358.5" frameX="-0.5" frameY="0" frameWidth="271" frameHeight="359"/>
+	<SubTexture name="gf shock0013" x="1674" y="1589.5" width="259" height="358.5" frameX="-0.5" frameY="0" frameWidth="271" frameHeight="359"/>
+	<SubTexture name="gf shock0014" x="1674" y="1589.5" width="259" height="358.5" frameX="-0.5" frameY="0" frameWidth="271" frameHeight="359"/>
+</TextureAtlas>

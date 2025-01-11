@@ -1,0 +1,20 @@
+<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="Thingy.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Thingy0000" x="2.25" y="2.25" width="512.75" height="320.5"/>
+	<SubTexture name="Thingy0001" x="517.25" y="2.25" width="512.75" height="320.5"/>
+	<SubTexture name="Thingy0002" x="1032.25" y="2.25" width="512.75" height="320.5"/>
+	<SubTexture name="Thingy0003" x="2.25" y="325" width="512.75" height="320.5"/>
+	<SubTexture name="Thingy0004" x="517.25" y="325" width="512.75" height="320.5"/>
+	<SubTexture name="Thingy0005" x="1032.25" y="325" width="512.75" height="320.5"/>
+	<SubTexture name="Thingy0006" x="1032.25" y="325" width="512.75" height="320.5"/>
+	<SubTexture name="Thingy0007" x="1032.25" y="325" width="512.75" height="320.5"/>
+	<SubTexture name="Thingy0008" x="1032.25" y="325" width="512.75" height="320.5"/>
+	<SubTexture name="Thingy0009" x="1032.25" y="325" width="512.75" height="320.5"/>
+	<SubTexture name="Thingy0010" x="1032.25" y="325" width="512.75" height="320.5"/>
+	<SubTexture name="Thingy0011" x="1032.25" y="325" width="512.75" height="320.5"/>
+	<SubTexture name="Thingy0012" x="1032.25" y="325" width="512.75" height="320.5"/>
+	<SubTexture name="Thingy0013" x="1032.25" y="325" width="512.75" height="320.5"/>
+	<SubTexture name="Thingy0014" x="1032.25" y="325" width="512.75" height="320.5"/>
+</TextureAtlas>

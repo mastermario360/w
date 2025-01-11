@@ -1,0 +1,214 @@
+<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="HANK.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOWN POSE0000" x="2.5" y="2.5" width="161.75" height="118.5" frameX="0" frameY="-2.5" frameWidth="161.75" frameHeight="124.5"/>
+	<SubTexture name="DOWN POSE0001" x="166.75" y="2.5" width="161.75" height="118.5" frameX="0" frameY="-2.5" frameWidth="161.75" frameHeight="124.5"/>
+	<SubTexture name="DOWN POSE0002" x="331" y="2.5" width="161.75" height="121.25" frameX="0" frameY="-0.75" frameWidth="161.75" frameHeight="124.5"/>
+	<SubTexture name="DOWN POSE0003" x="495.25" y="2.5" width="161.75" height="121.25" frameX="0" frameY="-0.75" frameWidth="161.75" frameHeight="124.5"/>
+	<SubTexture name="DOWN POSE0004" x="659.5" y="2.5" width="161.75" height="123.5" frameX="0" frameY="0" frameWidth="161.75" frameHeight="124.5"/>
+	<SubTexture name="DOWN POSE0005" x="823.75" y="2.5" width="161.75" height="123.5" frameX="0" frameY="0" frameWidth="161.75" frameHeight="124.5"/>
+	<SubTexture name="DOWN POSE0006" x="988" y="2.5" width="161.75" height="124" frameX="0" frameY="0" frameWidth="161.75" frameHeight="124.5"/>
+	<SubTexture name="DOWN POSE0007" x="1152.25" y="2.5" width="161.75" height="124.5"/>
+	<SubTexture name="DOWN POSE0008" x="1316.5" y="2.5" width="161.75" height="124.5"/>
+	<SubTexture name="DOWN POSE0009" x="1316.5" y="2.5" width="161.75" height="124.5"/>
+	<SubTexture name="DOWN POSE0010" x="1480.75" y="2.5" width="161.75" height="124.5"/>
+	<SubTexture name="DOWN POSE0011" x="1152.25" y="2.5" width="161.75" height="124.5"/>
+	<SubTexture name="DOWN POSE0012" x="1152.25" y="2.5" width="161.75" height="124.5"/>
+	<SubTexture name="DOWN POSE0013" x="1316.5" y="2.5" width="161.75" height="124.5"/>
+	<SubTexture name="DOWN POSE0014" x="1316.5" y="2.5" width="161.75" height="124.5"/>
+	<SubTexture name="Entrance0000" x="1645" y="2.5" width="149.75" height="255" frameX="-34.25" frameY="0" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="Entrance0001" x="1797.25" y="2.5" width="149.75" height="255" frameX="-34.25" frameY="-41.5" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="Entrance0002" x="2.5" y="260" width="149.75" height="255" frameX="-34.25" frameY="-263" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="Entrance0003" x="154.75" y="260" width="169" height="237.25" frameX="-26.25" frameY="-458" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="Entrance0004" x="326.25" y="260" width="161.5" height="226.5" frameX="-26.25" frameY="-518.5" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="Entrance0005" x="490.25" y="260" width="193.5" height="156.25" frameX="0" frameY="-638.25" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="Entrance0006" x="686.25" y="260" width="229" height="135.5" frameX="-5.5" frameY="-679" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="Entrance0007" x="917.75" y="260" width="221.25" height="147.25" frameX="-11.25" frameY="-660.75" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="Entrance0008" x="1141.5" y="260" width="221.5" height="143" frameX="-12.75" frameY="-665.25" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="Entrance0009" x="1365.5" y="260" width="224" height="141.5" frameX="-12.75" frameY="-665.25" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="Entrance0010" x="1592" y="260" width="215.5" height="137.75" frameX="-14.5" frameY="-664.75" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="Entrance0011" x="1810" y="260" width="215.5" height="140.75" frameX="-14.5" frameY="-661.75" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="Entrance0012" x="2.5" y="517.5" width="215.5" height="140.75" frameX="-14.25" frameY="-661.75" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="Entrance0013" x="220.5" y="517.5" width="215.5" height="136" frameX="-14.25" frameY="-666.5" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="HANKIDLE" x="686.25" y="260" width="229" height="135.5" frameX="-5.5" frameY="-679" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="HANKIDLE" x="917.75" y="260" width="221.25" height="147.25" frameX="-11.25" frameY="-660.75" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="HANKIDLE" x="1141.5" y="260" width="221.5" height="143" frameX="-12.75" frameY="-665.25" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="HANKIDLE" x="1365.5" y="260" width="224" height="141.5" frameX="-12.75" frameY="-665.25" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="HANKIDLE" x="1592" y="260" width="215.5" height="137.75" frameX="-14.5" frameY="-664.75" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="HANKIDLE" x="1810" y="260" width="215.5" height="140.75" frameX="-14.5" frameY="-661.75" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="HANKIDLE" x="2.5" y="517.5" width="215.5" height="140.75" frameX="-14.25" frameY="-661.75" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="HANKIDLE" x="220.5" y="517.5" width="215.5" height="136" frameX="-14.25" frameY="-666.5" frameWidth="237" frameHeight="815.5"/>
+	<SubTexture name="RIGHT POSE0000" x="438.5" y="517.5" width="173.75" height="144.75" frameX="-6.5" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="RIGHT POSE0001" x="438.5" y="517.5" width="173.75" height="144.75" frameX="-6.5" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="RIGHT POSE0002" x="614.75" y="517.5" width="176.75" height="144.75" frameX="-2.75" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="RIGHT POSE0003" x="614.75" y="517.5" width="176.75" height="144.75" frameX="-2.75" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="RIGHT POSE0004" x="794" y="517.5" width="178.25" height="144.75" frameX="-0.5" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="RIGHT POSE0005" x="974.75" y="517.5" width="178.5" height="144.75" frameX="0" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="RIGHT POSE0006" x="974.75" y="517.5" width="178.5" height="144.75" frameX="0" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="RIGHT POSE0007" x="1155.75" y="517.5" width="178.5" height="144.75" frameX="0" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="RIGHT POSE0008" x="1155.75" y="517.5" width="178.5" height="144.75" frameX="0" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="RIGHT POSE0009" x="974.75" y="517.5" width="178.5" height="144.75" frameX="0" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="RIGHT POSE0010" x="974.75" y="517.5" width="178.5" height="144.75" frameX="0" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="RIGHT POSE0011" x="974.75" y="517.5" width="178.5" height="144.75" frameX="0" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="RIGHT POSE0012" x="1155.75" y="517.5" width="178.5" height="144.75" frameX="0" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="RIGHT POSE0013" x="1155.75" y="517.5" width="178.5" height="144.75" frameX="0" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="RIGHT POSE0014" x="974.75" y="517.5" width="178.5" height="144.75" frameX="0" frameY="0" frameWidth="180.25" frameHeight="144.75"/>
+	<SubTexture name="UP POSE0000" x="1336.75" y="517.5" width="231.75" height="183" frameX="-26" frameY="0" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="UP POSE0001" x="1571" y="517.5" width="227.75" height="179" frameX="-30" frameY="-4" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="UP POSE0002" x="2.5" y="703" width="257.75" height="172" frameX="0" frameY="-11" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="UP POSE0003" x="262.75" y="703" width="195" height="164.25" frameX="-62.75" frameY="-18.75" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="UP POSE0004" x="460.25" y="703" width="231.5" height="172.75" frameX="-26" frameY="-10.25" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="UP POSE0005" x="694.25" y="703" width="227.5" height="168.75" frameX="-30" frameY="-14.25" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="UP POSE0006" x="924.25" y="703" width="257.25" height="169" frameX="0" frameY="-14" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="UP POSE0007" x="1184" y="703" width="194.5" height="161.25" frameX="-62.75" frameY="-21.75" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="UP POSE0008" x="1381" y="703" width="231.25" height="172.75" frameX="-26" frameY="-10.25" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="UP POSE0009" x="1614.75" y="703" width="227.25" height="168.75" frameX="-30" frameY="-14.25" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="UP POSE0010" x="2.5" y="878.25" width="257.25" height="169" frameX="0" frameY="-14" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="UP POSE0011" x="262.25" y="878.25" width="194.5" height="161.25" frameX="-62.75" frameY="-21.75" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="UP POSE0012" x="459.25" y="878.25" width="231.25" height="172.75" frameX="-26" frameY="-10.25" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="UP POSE0013" x="693" y="878.25" width="227.25" height="168.75" frameX="-30" frameY="-14.25" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="UP POSE0014" x="922.75" y="878.25" width="257.25" height="169" frameX="0" frameY="-14" frameWidth="257.75" frameHeight="183"/>
+	<SubTexture name="hank react0000" x="1182.5" y="878.25" width="153.25" height="128" frameX="-157" frameY="-157.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0001" x="1338.25" y="878.25" width="154" height="128" frameX="-156.25" frameY="-157.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0002" x="1494.75" y="878.25" width="155.25" height="128" frameX="-158" frameY="-157.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0003" x="1652.5" y="878.25" width="154.75" height="128" frameX="-158.5" frameY="-157.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0004" x="1809.75" y="878.25" width="154" height="128" frameX="-159.25" frameY="-157.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0005" x="2.5" y="1053.5" width="154" height="128" frameX="-159.25" frameY="-157.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0006" x="159" y="1053.5" width="154" height="128" frameX="-159.25" frameY="-157.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0007" x="159" y="1053.5" width="154" height="128" frameX="-159.25" frameY="-157.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0008" x="315.5" y="1053.5" width="153.5" height="128" frameX="-159.75" frameY="-157.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0009" x="471.5" y="1053.5" width="154.25" height="128" frameX="-159" frameY="-157.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0010" x="628.25" y="1053.5" width="153" height="128" frameX="-160.25" frameY="-157.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0011" x="783.75" y="1053.5" width="154.75" height="128" frameX="-158.5" frameY="-157.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0012" x="941" y="1053.5" width="150.25" height="128.75" frameX="-160" frameY="-157" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0013" x="1093.75" y="1053.5" width="150.25" height="128.75" frameX="-160" frameY="-157" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0014" x="1246.5" y="1053.5" width="133" height="130.25" frameX="-175.5" frameY="-155.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0015" x="1382" y="1053.5" width="143" height="127.25" frameX="-185.5" frameY="-158.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0016" x="1527.5" y="1053.5" width="143" height="127.25" frameX="-185.5" frameY="-158.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0017" x="1673" y="1053.5" width="142.25" height="125.75" frameX="-185" frameY="-160.25" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0018" x="1673" y="1053.5" width="142.25" height="125.75" frameX="-185" frameY="-160.25" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0019" x="1673" y="1053.5" width="142.25" height="125.75" frameX="-185" frameY="-160.25" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0020" x="1817.75" y="1053.5" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0021" x="1817.75" y="1053.5" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0022" x="2.5" y="1186.25" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0023" x="2.5" y="1186.25" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0024" x="148.5" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0025" x="148.5" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0026" x="296" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0027" x="296" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0028" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0029" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0030" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0031" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0032" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0033" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0034" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0035" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0036" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0037" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0038" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0039" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0040" x="1817.75" y="1053.5" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0041" x="1817.75" y="1053.5" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0042" x="2.5" y="1186.25" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0043" x="2.5" y="1186.25" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0044" x="148.5" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0045" x="148.5" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0046" x="296" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0047" x="296" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0048" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0049" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0050" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0051" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0052" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0053" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0054" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0055" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0056" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0057" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0058" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0059" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0060" x="1817.75" y="1053.5" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0061" x="1817.75" y="1053.5" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0062" x="2.5" y="1186.25" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0063" x="2.5" y="1186.25" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0064" x="148.5" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0065" x="148.5" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0066" x="296" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0067" x="296" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0068" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0069" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0070" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0071" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0072" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0073" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0074" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0075" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0076" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0077" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0078" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0079" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0080" x="1817.75" y="1053.5" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0081" x="1817.75" y="1053.5" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0082" x="2.5" y="1186.25" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0083" x="2.5" y="1186.25" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0084" x="148.5" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0085" x="148.5" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0086" x="296" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0087" x="296" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0088" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0089" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0090" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0091" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0092" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0093" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0094" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0095" x="589.5" y="1186.25" width="143" height="126.5" frameX="-183.75" frameY="-159.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0096" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0097" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0098" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0099" x="735" y="1186.25" width="142.25" height="126" frameX="-183.75" frameY="-160" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0100" x="1817.75" y="1053.5" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0101" x="1817.75" y="1053.5" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0102" x="2.5" y="1186.25" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0103" x="2.5" y="1186.25" width="143.5" height="125.5" frameX="-183.75" frameY="-160.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0104" x="148.5" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0105" x="148.5" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0106" x="296" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0107" x="296" y="1186.25" width="145" height="125.25" frameX="-183.75" frameY="-160.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0108" x="443.5" y="1186.25" width="143.5" height="126.25" frameX="-183.75" frameY="-159.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0109" x="879.75" y="1186.25" width="142.75" height="127.75" frameX="-183" frameY="-158.25" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0110" x="879.75" y="1186.25" width="142.75" height="127.75" frameX="-183" frameY="-158.25" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0111" x="879.75" y="1186.25" width="142.75" height="127.75" frameX="-183" frameY="-158.25" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0112" x="1025" y="1186.25" width="143" height="116" frameX="-183.5" frameY="-157.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0113" x="1170.5" y="1186.25" width="151.25" height="114.25" frameX="-177.25" frameY="-157" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0114" x="1170.5" y="1186.25" width="151.25" height="114.25" frameX="-177.25" frameY="-157" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0115" x="1324.25" y="1186.25" width="169.25" height="114.25" frameX="-160" frameY="-157" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0116" x="1324.25" y="1186.25" width="169.25" height="114.25" frameX="-160" frameY="-157" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0117" x="1496" y="1186.25" width="162.25" height="114.25" frameX="-167.5" frameY="-157" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0118" x="1496" y="1186.25" width="162.25" height="114.25" frameX="-167.5" frameY="-157" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0119" x="1660.75" y="1186.25" width="160.25" height="114.25" frameX="-169" frameY="-157" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0120" x="1660.75" y="1186.25" width="160.25" height="114.25" frameX="-169" frameY="-157" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0121" x="2.5" y="1316.5" width="329.25" height="271.25" frameX="0" frameY="0" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0122" x="2.5" y="1316.5" width="329.25" height="271.25" frameX="0" frameY="0" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0123" x="334.25" y="1316.5" width="251" height="157.25" frameX="-129" frameY="-108.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0124" x="587.75" y="1316.5" width="251" height="157.25" frameX="-129" frameY="-108.5" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0125" x="841.25" y="1316.5" width="313.75" height="115" frameX="-459.5" frameY="-132.75" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="hank react0126" x="1157.5" y="1316.5" width="290.25" height="128.25" frameX="-747.25" frameY="-124" frameWidth="1037.5" frameHeight="286"/>
+	<SubTexture name="left0000" x="1450.25" y="1316.5" width="263.25" height="111.75" frameX="0" frameY="-8.25" frameWidth="263.25" frameHeight="120"/>
+	<SubTexture name="left0001" x="1716" y="1316.5" width="263.25" height="120"/>
+	<SubTexture name="left0002" x="2.5" y="1590.25" width="258" height="119.5" frameX="-3" frameY="-0.5" frameWidth="263.25" frameHeight="120"/>
+	<SubTexture name="left0003" x="263" y="1590.25" width="256.75" height="107.75" frameX="-3" frameY="-12.25" frameWidth="263.25" frameHeight="120"/>
+	<SubTexture name="left0004" x="522.25" y="1590.25" width="255.25" height="108.5" frameX="-5.25" frameY="-11.5" frameWidth="263.25" frameHeight="120"/>
+	<SubTexture name="left0005" x="780" y="1590.25" width="254.25" height="112.25" frameX="-6.25" frameY="-7.75" frameWidth="263.25" frameHeight="120"/>
+	<SubTexture name="left0006" x="1036.75" y="1590.25" width="254.25" height="120" frameX="-6.25" frameY="0" frameWidth="263.25" frameHeight="120"/>
+	<SubTexture name="left0007" x="1036.75" y="1590.25" width="254.25" height="120" frameX="-6.25" frameY="0" frameWidth="263.25" frameHeight="120"/>
+	<SubTexture name="left0008" x="1293.5" y="1590.25" width="254.25" height="108.75" frameX="-6.25" frameY="-11.25" frameWidth="263.25" frameHeight="120"/>
+	<SubTexture name="left0009" x="1293.5" y="1590.25" width="254.25" height="108.75" frameX="-6.25" frameY="-11.25" frameWidth="263.25" frameHeight="120"/>
+	<SubTexture name="left0010" x="780" y="1590.25" width="254.25" height="112.25" frameX="-6.25" frameY="-7.75" frameWidth="263.25" frameHeight="120"/>
+	<SubTexture name="left0011" x="1036.75" y="1590.25" width="254.25" height="120" frameX="-6.25" frameY="0" frameWidth="263.25" frameHeight="120"/>
+	<SubTexture name="left0012" x="1036.75" y="1590.25" width="254.25" height="120" frameX="-6.25" frameY="0" frameWidth="263.25" frameHeight="120"/>
+	<SubTexture name="left0013" x="1293.5" y="1590.25" width="254.25" height="108.75" frameX="-6.25" frameY="-11.25" frameWidth="263.25" frameHeight="120"/>
+	<SubTexture name="left0014" x="1293.5" y="1590.25" width="254.25" height="108.75" frameX="-6.25" frameY="-11.25" frameWidth="263.25" frameHeight="120"/>
+</TextureAtlas>
